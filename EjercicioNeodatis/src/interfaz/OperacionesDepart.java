@@ -1,5 +1,9 @@
 package interfaz;
 
+/**
+ * <h2>Esta clase se encarga del mantenimiento de los datos de departamento, se realizan altas, bajas, modificaciones y consultas</h2>
+ */
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Insets;

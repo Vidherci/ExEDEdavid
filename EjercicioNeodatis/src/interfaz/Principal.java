@@ -1,5 +1,10 @@
 package interfaz;
 
+/**
+ * @author 1dami
+ * @version Version 1, 2019
+ */
+
 import java.awt.EventQueue;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
